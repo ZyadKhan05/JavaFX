@@ -1,2 +1,2 @@
 # JavaFX
-JavaFX Projects
+Projects Created with JavaFX
