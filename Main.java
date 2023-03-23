@@ -1,13 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import javafx.scene.input.KeyCode;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
-import javafx.scene.text.Text;
 import javafx.util.Duration;
 import javafx.animation.TranslateTransition;
 import javafx.application.Application;
@@ -194,5 +191,4 @@ public class Main extends Application{
     public static void main(String[] args){
         launch(args);
     }
-
 }
